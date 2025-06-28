@@ -13,6 +13,20 @@ This application allows users to input text queries related to classic novels an
 - Error handling for missing model files
 - User-friendly interface with clear feedback
 
+The current model classifies queries or document segments into the following books:
+
+Alice’s Adventures in Wonderland
+Little Women
+Sherlock Holmes
+The Adventures of Tom Sawyer
+Pride and Prejudice
+Anne of Green Gables
+Oliver Twist
+Frankenstein
+The Importance of Being Earnest
+Great Expectations
+The Great Gatsby
+
 ## Setup instructions
 
 1. Install required dependencies:
